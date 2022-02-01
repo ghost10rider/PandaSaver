@@ -1,0 +1,17 @@
+{
+  "header": "Tik Video Downloader",
+  "caption": "Download TikTok Video without watermark\nMp3 & Mp4",
+  "paste": "Paste TikTok Video Link Here",
+  "getVideo": "Paste & Download",
+  "mp4": "Video (MP4)",
+  "mp3": "Music (MP3)",
+  "noDownloads": "There is no downloads",
+  "navHome": "Home Screen",
+  "navDownloads": "Downloads",
+  "enterValidUrl": "Please enter a valid URL",
+  "rateAppTitle": "Rate Panda Saver",
+  "rateAppMessage": "If you like Panda Saver, please review it !\nIt makes us keep going and it shouldn't take you more than seconds.",
+  "rateAppRatebutton": "Rate",
+  "rateAppLaterButton": "Maybe Later",
+  "rateAppNoButton": "NO Thanks"
+}

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "974177919608",
+    "project_id": "panda-saver",
+    "storage_bucket": "panda-saver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974177919608:android:dd5782c60359812dc7038d",
+        "android_client_info": {
+          "package_name": "app.pandasaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974177919608-emcov503jeqo8316tegl6aridevr63g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD16GMtWl7xme2f-Z_uHvP6ECSrDmolvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974177919608-emcov503jeqo8316tegl6aridevr63g4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "974177919608-jos0163lfnp2dnupfbqj47kh3nbg9k8t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.pandasaver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

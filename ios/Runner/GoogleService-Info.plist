@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>974177919608-jos0163lfnp2dnupfbqj47kh3nbg9k8t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.974177919608-jos0163lfnp2dnupfbqj47kh3nbg9k8t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCIZybyAqQl4oTS9Ygiyi0dwl4_V19xa8U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>974177919608</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.pandasaver</string>
+	<key>PROJECT_ID</key>
+	<string>panda-saver</string>
+	<key>STORAGE_BUCKET</key>
+	<string>panda-saver.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:974177919608:ios:115efe3ee450c518c7038d</string>
+</dict>
+</plist>
